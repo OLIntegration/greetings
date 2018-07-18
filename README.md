@@ -4,4 +4,6 @@ This is a test project to experiment with integration of GitHub, JIRA, Jenkins, 
 
 # Testing Triggers
 
-1. Test making comments on JIRA issues through git commits (**Test 7**)
+1. Making comments on JIRA issues through git commits. 
+2. Showing branches show up under the story.
+3. Showing that pull requests show up under the story.
