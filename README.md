@@ -4,4 +4,4 @@ This is a test project to experiment with integration of GitHub, JIRA, Jenkins, 
 
 # Testing Triggers
 
-1. Test making comments on JIRA issues through git commits (**Test 5**)
+1. Test making comments on JIRA issues through git commits (**Test 6**)
